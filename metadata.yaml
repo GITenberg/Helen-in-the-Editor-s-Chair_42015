@@ -1,0 +1,28 @@
+_repo: Helen-in-the-Editor-s-Chair_42015
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42015-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wheeler, Ruthe S.
+    gutenberg_agent_id: '36477'
+    url: http://www.gutenberg.org/2009/agents/36477
+description: ''
+gutenberg_issued: '2013-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Businesswomen -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Women in journalism -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Women in the mass media industry -- Juvenile fiction'
+title: Helen in the Editor's Chair
+url: http://www.gutenberg.org/ebooks/42015
